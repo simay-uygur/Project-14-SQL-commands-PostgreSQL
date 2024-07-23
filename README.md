@@ -8,7 +8,7 @@ The tasks are:
 * List the top 4 records from the customer table, ordered by last_name in descending order, where store_id is 1.
 
 
-## The Queries 
+## The Queries 
 
 ```
 
